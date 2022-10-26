@@ -5,11 +5,7 @@
     font-family: 'Roboto', sans-serif;
 }
 
-:root{
-    --green-600: #047C3F;
-    --green-900: #185B34;
-    --yellow-400: #F7DD43;
-}
+
 
 body{
     height: 100vh;
